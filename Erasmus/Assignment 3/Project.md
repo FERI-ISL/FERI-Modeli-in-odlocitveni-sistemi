@@ -8,12 +8,12 @@ Develop an application (desktop or web application) with a graphical user interf
 3.	DEX (Decision EXpert) method
 
 
-The detailed requirements for the assignment are accessible here: [PDF](assignment_3.pdf).
+The detailed requirements for the assignment are accessible here: [PDF](project.pdf).
 <br/><br/>
 
 
 ## 📚 Additional materials
-- [Basic methods](basic_methods.pdf)<br/><br/><br/>
+- [MAUT](MAUT.pdf)<br/><br/><br/>
 
 
 ## 📅 Deadline
