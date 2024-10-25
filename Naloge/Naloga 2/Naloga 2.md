@@ -5,7 +5,7 @@
 Na podlagi predstavljenega odločitvenega problema narišite pripadajočo odločitveno drevo. Pri tem uporabite orodje [SilverDecisions](https://www.silverdecisions.pl/).
 
 **Naloge**:
-- Naloga 1 [študenti: 1002580099,1002591414, 1002570263, 1002569338, 1002570310, 1002580552]
+- [Naloga 1](<Opisi nalog.md#Naloga1>) [študenti: 1002580099,1002591414, 1002570263, 1002569338, 1002570310, 1002580552]
 - Naloga 2 [študenti: 1002575605, 1002538050, 1002580498, 1002570328, 1002570026]
 - Naloga 3 [študenti: 1002579660, 1002564557, 1002580803, 1002572029]
 
