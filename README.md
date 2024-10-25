@@ -14,3 +14,9 @@ Laboratorijske vaje pri predmetu *Modeli in odločitveni sistemi*:
 - [Naloga 2: Odločitvena drevesa](<Naloga 2.md>) [10 točk]
 - Naloga 3: Metoda Kepner-Tregoe [10 točk]
 - Naloga 4: MAUT / AHP / DEX [10 točk]
+
+<br/><br/><br/>
+## For Erasmus students (lab work)
+- Assignment 1: Basic methods [10 points]
+- Assignment 2: Kepner-Tregoe method [15 points]
+- Assignment 3: Project [25 points]
