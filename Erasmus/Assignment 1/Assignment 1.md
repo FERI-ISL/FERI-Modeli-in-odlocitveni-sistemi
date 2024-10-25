@@ -10,7 +10,9 @@ Develop an application with a graphical user interface implementing the followin
 4. Laplace method
 5. Savage (least regret) method
 
-The detailed requirements for the assignment are accessible here: [PDF](assignment_1.pdf).
+The detailed requirements for the assignment are accessible here: [PDF](assignment_1.pdf). 
+
+CSV file is available here: [how_to_expand.csv](how_to_expand.csv).
 <br/><br/>
 
 
