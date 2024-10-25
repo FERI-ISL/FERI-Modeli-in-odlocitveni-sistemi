@@ -19,4 +19,4 @@ Laboratorijske vaje pri predmetu *Modeli in odločitveni sistemi*:
 ## For Erasmus students (lab work)
 - [Assignment 1: Basic methods](<Erasmus/Assignment 1>) [10 points]
 - [Assignment 2: Kepner-Tregoe method](<Erasmus/Assignment 2>) [15 points]
-- Assignment 3: Project [25 points]
+- [Assignment 3: Project](<Erasmus/Assignment 3>) [25 points]
