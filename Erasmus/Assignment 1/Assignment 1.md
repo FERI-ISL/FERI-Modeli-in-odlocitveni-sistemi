@@ -9,11 +9,13 @@ Develop an application with a graphical user interface implementing the followin
 3. Hurwitz method
 4. Laplace method
 5. Savage (least regret) method
+
+The detailed requirements for the assignment are accessible here: [PDF](assignment_1.pdf).
 <br/><br/>
 
 
 ## 📚 Additional materials
-- [Basic methods](...)<br/><br/><br/>
+- [Basic methods](basic_methods.pdf)<br/><br/><br/>
 
 
 ## 📅 Deadline
