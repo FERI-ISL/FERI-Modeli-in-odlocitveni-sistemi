@@ -7,7 +7,7 @@
 
 **Predavatelj:** prof. dr. Vili Podgorelec
 
-**Asistent:** Lucija Brezočnik ([prijava na govorilne ure/office hours](https://calendly.com/lucija-brezocnik/30min))<br/><br/>
+**Asistentka:** Lucija Brezočnik ([prijava na govorilne ure/office hours](https://calendly.com/lucija-brezocnik/30min))<br/><br/>
 
 Laboratorijske vaje pri predmetu *Modeli in odločitveni sistemi*:
 - Naloga 1: Osnovne metode [10 točk]
