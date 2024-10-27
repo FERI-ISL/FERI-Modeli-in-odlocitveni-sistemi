@@ -1,4 +1,5 @@
 # [UM FERI - IPT] Modeli in odločitveni sistemi
+> Decision making models and systems
 
 <p align="center">
   <b>IPT 3 UN <br/></b>
