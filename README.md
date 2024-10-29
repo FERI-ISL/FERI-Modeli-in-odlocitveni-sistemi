@@ -10,11 +10,15 @@
 
 **Asistentka:** Lucija Brezočnik ([prijava na govorilne ure/office hours](https://calendly.com/lucija-brezocnik/30min))<br/><br/>
 
-Laboratorijske vaje pri predmetu *Modeli in odločitveni sistemi*:
+## Laboratorijske vaje pri predmetu *Modeli in odločitveni sistemi*:
 - Naloga 1: Osnovne metode [10 točk]
 - [Naloga 2: Odločitvena drevesa](<Naloge/Naloga 2>) [10 točk]
 - Naloga 3: Metoda Kepner-Tregoe [10 točk]
 - Naloga 4: MAUT / AHP / DEX [10 točk]
+<br/><br/><br/>
+
+## Kvizi
+1. kviz: 5. 11. 2024
 
 <br/><br/><br/>
 ## For Erasmus students (lab work)
