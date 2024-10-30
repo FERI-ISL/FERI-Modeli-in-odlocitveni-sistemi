@@ -23,5 +23,5 @@
 <br/><br/><br/>
 ## For Erasmus students (lab work)
 - [Assignment 1: Basic methods](<Erasmus/Assignment 1>) [10 points]
-- [Assignment 2: Kepner-Tregoe method](<Erasmus/Assignment 2>) [15 points]
-- [Assignment 3: Project](<Erasmus/Assignment 3>) [25 points]
+- [Assignment 2: Kepner-Tregoe method](<Erasmus/Assignment 2>) [15 points] -> (assignment presentation: **5. 11. 2024**)
+- [Assignment 3: Project](<Erasmus/Assignment 3>) [25 points] -> (assignment presentation: **3. 12. 2024**)
