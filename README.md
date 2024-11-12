@@ -19,6 +19,7 @@
 
 ## Kvizi
 1. kviz: 5. 11. 2024
+2. kviz: 19. 11. 2024
 
 <br/><br/><br/>
 ## For Erasmus students (lab work)
