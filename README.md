@@ -14,7 +14,7 @@
 - Naloga 1: Osnovne metode [10 točk]
 - [Naloga 2: Odločitvena drevesa](<Naloge/Naloga 2>) [10 točk]
 - [Naloga 3: Metoda Kepner-Tregoe](<Naloge/Naloga 3>) [10 točk]
-- Naloga 4: MAUT / AHP / DEX [10 točk]
+- [Naloga 4: MAUT / AHP / DEX](<Naloge/Naloga 4>) [10 točk]
 <br/><br/><br/>
 
 ## Kvizi
