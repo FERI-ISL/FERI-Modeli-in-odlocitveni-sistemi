@@ -26,3 +26,14 @@
 - [Assignment 1: Basic methods](<Erasmus/Assignment 1>) [10 points]
 - [Assignment 2: Kepner-Tregoe method](<Erasmus/Assignment 2>) [15 points] -> (assignment presentation: **12. 11. 2024**)
 - [Assignment 3: Project](<Erasmus/Assignment 3>) [25 points] -> (assignment presentation: **3. 12. 2024**)
+
+
+## For Erasmus students (lectures)
+- Friday, 22.11.2024, 12:15 (G3-Ada)
+- Tuesday, 26.11.2024, 13:15 (G3-Turing)
+- Friday, 29.11.2024, 13:15 (G3-Diplomska soba)
+- Monday, 2.12.2024, 13:15 (G3-Diplomska soba)
+- Wednesday, 11.12.2025, 14:15 (G3-Ada), **written exam**
+
+Regards,
+  Prof. dr. Vili Podgorelec
