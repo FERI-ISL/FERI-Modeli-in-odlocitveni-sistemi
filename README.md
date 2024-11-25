@@ -20,8 +20,12 @@
 ## Kvizi
 1. kviz: 5. 11. 2024
 2. kviz: 19. 11. 2024
-
 <br/><br/><br/>
+
+## Projekt
+Predstavitev/delavnica bo potekala v času predavanj v četrtek, 5. 12. 2024. Pridružil se nam bo tudi predstavnik iz industrije, ki bo predstavil svoje delo.
+<br/><br/><br/>
+
 ## For Erasmus students (lab work)
 - [Assignment 1: Basic methods](<Erasmus/Assignment 1>) [10 points]
 - [Assignment 2: Kepner-Tregoe method](<Erasmus/Assignment 2>) [15 points] -> (assignment presentation: **12. 11. 2024**)
