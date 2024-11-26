@@ -21,10 +21,9 @@ Nalogo izdelajte samostojno. Zagovor naloge bo potekal v terminu vaj.<br/><br/>
 
 
 ## 📅 Datum zagovora
-26.11.2024 oz. 3.12.2024<br/><br/>
+3.12.2024<br/><br/>
 
 
 ## 🎯Točke
 10 točk (6 točk: osnovni del + 4 točke: zahtevnejši del)
-  
-Pozni zagovor (3.12.2024) odbije 3 točke od ocene naloge.
+
