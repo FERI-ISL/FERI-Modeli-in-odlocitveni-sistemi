@@ -23,7 +23,7 @@
 <br/><br/><br/>
 
 ## Projekt
-Predstavitev/delavnica bo potekala v času predavanj v četrtek, 5. 12. 2024. Pridružil se nam bo tudi predstavnik iz industrije, ki bo predstavil svoje delo.
+Predstavitev/delavnica bo potekala v času predavanj v četrtek, 5. 12. 2024, ob 8:00. Pridružil se nam bo tudi predstavnik iz industrije, ki bo predstavil svoje delo.
 <br/><br/><br/>
 
 ## For Erasmus students (lab work)
